@@ -1,1 +1,1 @@
-# Mayera
+# Mayera assistant
